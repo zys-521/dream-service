@@ -1,0 +1,23 @@
+{
+  "name": "dream-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node service.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zys-521/dream-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zys-521/dream-service/issues"
+  },
+  "homepage": "https://github.com/zys-521/dream-service#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
