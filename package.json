@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/zys-521/dream-service#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
